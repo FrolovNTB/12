@@ -1,0 +1,71 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl Oblitsovka Emal_ 2
+illum 1
+map_Kd 123512435_textures\S 2010-B50G_500x500_d27.png
+
+newmtl Noname
+illum 1
+map_Kd 123512435_textures\default.bmp
+
+newmtl MDF 20mm _skleyka 10+10mm_
+Kd 72 72 72
+illum 1
+
+newmtl Hettich Tsink
+Kd 210 210 210
+illum 1
+
+newmtl Kromka 0_4kh19 v tsvet
+Kd 255 255 0
+illum 1
+
+newmtl Kromka Emal_
+illum 1
+map_Kd 123512435_textures\NCS-S-1505-Y40R.png
+
+newmtl Hettich Antratsit
+Kd 96 96 96
+illum 1
+
+newmtl Hettich Seryy plastik
+Kd 193 193 193
+illum 1
+
+newmtl U156 9 Bezhevyy pesok
+illum 1
+map_Kd 123512435_textures\U156.jpg
+
+newmtl MDF 16mm
+Kd 128 128 128
+illum 1
+
+newmtl Hettich G
+Kd 38 155 32
+illum 1
+
+newmtl Stal_
+Kd 106 106 106
+illum 1
+
+newmtl Alyuminiy
+Kd 229 229 229
+illum 1
+
+newmtl Oblitsovka Emal_ 1
+illum 1
+map_Kd 123512435_textures\NCS-S-1505-Y40R.png
+
+newmtl Kromka 0_8kh19 v tsvet
+Kd 255 255 0
+illum 1
+
+newmtl KhDF 3_2mm
+Kd 192 192 192
+illum 1
+
+newmtl MDF 24mm
+illum 1
+map_Kd 123512435_textures\default.bmp
+
